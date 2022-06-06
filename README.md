@@ -11,9 +11,8 @@ on to find out more!
 ![](https://cdn.discordapp.com/attachments/968184771102507031/983478110764818492/unknown.png)
 
 Advent of Code is an Advent calendar of programming puzzles that takes place
-every year for the first 25 days of December.
-
-You can read more about it here: https://adventofcode.com/2021/about
+every year for the first 25 days of December. You can read more about it here:
+https://adventofcode.com/2021/about
 
 For this week's lab, we'll be doing questions from the first and second days of
 2019. Each day has two parts, and to read the instruction for the second part,
@@ -24,14 +23,14 @@ Make sure to log into the site, or you won't be able to see your puzzle input!
 
 ### 2019-12-01
 
+Here is the link for day 1: https://adventofcode.com/2019/day/1
+
 For both of these problems, we'll be working in this directory. To create a new
 Rust project, you can run:
 
 ```bash
 cargo new <project-name>
 ```
-
-Here is the link for day 1: https://adventofcode.com/2019/day/1
 
 You'll need to read from a file for this question, so here's some starter code
 to help you with that:
