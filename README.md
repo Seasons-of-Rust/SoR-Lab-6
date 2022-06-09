@@ -29,8 +29,12 @@ For both of these problems, we'll be working in this directory. To create a new
 Rust project, you can run:
 
 ```bash
-cargo new <project-name>
+cargo new day1
 ```
+
+If you decide to use a different name for the project, make sure to change it in
+[Cargo.toml](Cargo.toml). This is because Rust needs to know what the names of
+the member crates are so that `cargo fmt` and `cargo clippy` can work properly :)
 
 You'll need to read from a file for this question, so here's some starter code
 to help you with that:
